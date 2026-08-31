@@ -13,11 +13,9 @@ This repository is the official implementation of **"Video Generative Models as 
 ## Demo
 
 <p align="center">
-  <video src="assets/GeoNeXt_demo.mp4" poster="assets/GeoNeXt_demo_preview.jpg" width="100%" controls>
-    <a href="assets/GeoNeXt_demo.mp4">
-      <img src="assets/GeoNeXt_demo_preview.jpg" alt="GeoNeXt demo video" width="100%">
-    </a>
-  </video>
+  <a href="assets/GeoNeXt_demo.mp4">
+    <img src="assets/GeoNeXt_demo_preview.jpg" alt="GeoNeXt demo video" width="100%">
+  </a>
 </p>
 
 ## Updates
