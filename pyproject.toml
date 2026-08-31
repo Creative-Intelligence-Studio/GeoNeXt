@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "geonext"
+version = "0.1.0"
+description = "GeoNeXt Wan/SVD inference and geometry export"
+requires-python = ">=3.10"
+dependencies = ["numpy", "Pillow", "trimesh"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["utils*", "diffsynth*"]
+
+[tool.setuptools]
+py-modules = ["inference"]

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GeoNeXt Web Viewer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <canvas id="renderCanvas"></canvas>
+  <aside class="panel">
+    <header>
+      <p class="eyebrow">GeoNeXt</p>
+      <h1>Geometry Viewer</h1>
+      <p class="hint">Inspect a triangle mesh with RGB vertex colors.</p>
+    </header>
+
+    <section>
+      <label for="meshUrl">Mesh URL</label>
+      <div class="row">
+        <input id="meshUrl" placeholder="../outputs/.../mesh.ply">
+        <button id="loadMeshUrl">Load</button>
+      </div>
+      <label class="file-button">
+        Open local .ply
+        <input id="meshFile" type="file" accept=".ply,application/octet-stream">
+      </label>
+    </section>
+
+    <section class="toggles">
+      <button id="frameAll" class="secondary">Frame all</button>
+    </section>
+
+    <footer>
+      <span id="statusDot" class="status-dot"></span>
+      <span id="status">Ready</span>
+    </footer>
+  </aside>
+
+  <script type="importmap">{"imports":{"three":"./vendor/three.module.js","three/addons/":"./vendor/"}}</script>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

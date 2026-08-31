@@ -1,0 +1,10 @@
+accelerate==0.29.3
+diffusers==0.28.0
+huggingface-hub==0.22.2
+numpy==1.26.4
+Pillow
+safetensors
+torch==2.3.1
+torchvision==0.18.1
+transformers==4.40.1
+trimesh
