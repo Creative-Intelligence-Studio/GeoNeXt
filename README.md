@@ -12,7 +12,7 @@ This repository is the official implementation of **"Video Generative Models as 
 
 ## Demo
 
-https://github.com/user-attachments/assets/dbd11870-e23e-4522-a5d1-1500c0f0261a
+https://github.com/user-attachments/assets/f07bffc9-1ad5-4d4d-82e4-ea2411397eff
 
 ## Updates
 
