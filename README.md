@@ -12,11 +12,7 @@ This repository is the official implementation of **"Video Generative Models as 
 
 ## Demo
 
-<p align="center">
-  <a href="assets/GeoNeXt_demo.mp4">
-    <img src="assets/GeoNeXt_demo_preview.jpg" alt="GeoNeXt demo video" width="100%">
-  </a>
-</p>
+https://github.com/user-attachments/assets/dbd11870-e23e-4522-a5d1-1500c0f0261a
 
 ## Updates
 
