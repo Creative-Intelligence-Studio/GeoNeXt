@@ -2,7 +2,7 @@
 
 ## Video Generative Models as Geometry Learner
 
-[Homepage](https://happy-hsy.github.io/projects/GeoNeXt/) · [Paper](https://arxiv.org/pdf/2608.28549) · [Models](https://huggingface.co/happy0612/GeoNeXt)
+[Homepage](https://happy-hsy.github.io/projects/GeoNeXt/) · [Paper](https://arxiv.org/pdf/2608.28549) · [Models](https://huggingface.co/happy0612/GeoNeXt) · [🤗 Online Demo](https://huggingface.co/spaces/happy0612/GeoNeXt)
 
 > **Video Generative Models as Geometry Learner**  
 > Haosen Yang, Jifei Song, Zhensong Zhang, Xiatian Zhu\*, Jiankang Deng\*  
@@ -11,6 +11,11 @@
 This repository is the official implementation of **"Video Generative Models as Geometry Learner"**.
 
 ## Demo
+
+[![Hugging Face Space](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-FFD21E)](https://huggingface.co/spaces/happy0612/GeoNeXt)
+
+> The online demo runs on Hugging Face ZeroGPU. You may need to sign in to
+> Hugging Face, and inference time depends on the current queue.
 
 https://github.com/user-attachments/assets/f07bffc9-1ad5-4d4d-82e4-ea2411397eff
 
